@@ -25,7 +25,7 @@ function Home() {
                     rating={4}
                 />
             </div>
-
+        
             <div className="home__row">
                 <Product 
                     id="568965653"
